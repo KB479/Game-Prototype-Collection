@@ -30,4 +30,4 @@ Welcome to my game development archive. This repository serves as a portfolio of
 * **Description:** My very first step into 3D game development. This project focuses on the core mechanics of a first-person shooter, including weapon handling, recoil simulation, and basic enemy AI interactions.
 * **Note:** The code architecture reflects my early learning stage and is preserved here to document my technical growth.
 
-*(Note: Replace the link above with a short GIF)*
+<img width="1168" height="666" alt="Image" src="https://github.com/user-attachments/assets/e040b990-33d9-4bfa-b07f-33b07ff932ca" />

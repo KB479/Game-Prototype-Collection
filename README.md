@@ -16,6 +16,16 @@ Welcome to my game development archive. This repository serves as a portfolio of
 
 ---
 
+## 2D Turn-Based Combat Prototype (2023-2024)
+* **Focus:** State Machines, Turn-Based Logic, UI Architecture, Mobile-Ready Mechanics.
+* **Description:** A foundational combat prototype designed for a 2D mobile RPG. This project focuses on managing turn orders, implementing state machines to control combat phases (Player Turn, Enemy Turn, Action Execution), and building a scalable action selection system.
+* **Note:** Created as an experimental step toward mobile game development. The primary goal was to decouple the combat logic from the UI elements. While partially successful, the codebase still contains some "spaghetti" sections and requires a structural refactor to achieve true modularity—serving as a valuable learning milestone in my architectural progression.
+
+gif
+
+
+---
+
 ## KO: My First 2D Game (2022)
 * **Focus:** 2D Physics Engine (Box2D), Collision Detection, Level Progression.
 * **Description:** A collection of small experimental levels testing 2D platforming logic, puzzle mechanics, and player state management in a restricted environment.

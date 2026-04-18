@@ -12,7 +12,7 @@ Welcome to my game development archive. This repository serves as a portfolio of
 * **Sandbox / Sketch Scene:** The repository also includes a dedicated experimental scene used independently for testing new mechanics and exploring various Unity technologies.
 * **Special Thanks:** **A special thanks to Code Monkey** , whose educational content was highly influential in helping me grasp the fundamentals of clean architecture and structural design patterns in Unity.
 
-*(Note: Replace the link above with a 5-10 second GIF showing the gameplay/mechanics)*
+<img width="1168" height="666" alt="Image" src="https://github.com/user-attachments/assets/bb424b9b-3ec7-493b-8a45-e042544f637c" />
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my game development archive. This repository serves as a portfolio of
 * **Description:** A collection of small experimental levels testing 2D platforming logic, puzzle mechanics, and player state management in a restricted environment.
 * **Note:** Originally developed as a university term project for a C# Object-Oriented Programming (OOP) course, where it received a perfect score. As my very first 2D game, it documents my initial approach to game logic and serves as a baseline for my progression toward cleaner, more scalable codebases.
 
-*(Note: Replace the link above with a short GIF)*
+gif
 
 ---
 

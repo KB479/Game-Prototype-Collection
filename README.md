@@ -2,8 +2,8 @@
 
 Welcome to my game development archive. This repository serves as a portfolio of my journey in game development, showcasing my progression from early physics and mechanic experiments to implementing modern C# practices and Object-Oriented Programming (OOP) standards.
 
-**Technologies:** Unity 3D/2D, C#
-This README prepared with the help of Google Gemini.
+**Technologies:** Unity 3D/2D, C#.
+* This README prepared with the help of Google Gemini.
 
 ---
 

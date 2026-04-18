@@ -6,7 +6,7 @@ Welcome to my game development archive. This repository serves as a portfolio of
 
 ---
 
-##  Kitchen Management Simulation (2024)
+## KC: Kitchen Management Simulation (2024)
 * **Focus:** Modern C#, OOP Standards, Design Patterns (Singleton, Observer), Modular Architecture.
 * **Description:** Programmed entirely from scratch using the visual assets from Code Monkey's "Kitchen Chaos". The primary goal of this project was to move away from "spaghetti code" and implement scalable, professional software architecture within the Unity environment.
 * **Sandbox / Sketch Scene:** The repository also includes a dedicated experimental scene used independently for testing new mechanics and exploring various Unity technologies.

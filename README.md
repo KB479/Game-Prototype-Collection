@@ -21,7 +21,9 @@ Welcome to my game development archive. This repository serves as a portfolio of
 * **Description:** A foundational combat prototype designed for a 2D mobile RPG. This project focuses on managing turn orders, implementing state machines to control combat phases (Player Turn, Enemy Turn, Action Execution), and building a scalable action selection system.
 * **Note:** Created as an experimental step toward mobile game development. The primary goal was to decouple the combat logic from the UI elements. While partially successful, the codebase still contains some "spaghetti" sections and requires a structural refactor to achieve true modularity—serving as a valuable learning milestone in my architectural progression.
 
-gif
+<img width="285" height="626" alt="Image" src="https://github.com/user-attachments/assets/8dc41987-a7ad-4d83-bcce-5f3d08dc8182" />
+
+*(Note: This visual recorded by mobizen in mobile apk demo)*
 
 
 ---
